@@ -954,7 +954,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
 track GSM3518677_Adult_Tead1_fb1_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d2ca6b5ba0b9a32f/display?to_ext=bigbed
 itemRgb on
-shortLabel Tead1 fb1 peaks (Adult)
+shortLabel Tead1 fb1 PEAKS (Adult)
 longLabel GSM3518677_Adult_Tead1_fb1_peaks        
 type bigBed 3 . 
 configurable on
@@ -964,7 +964,7 @@ color 250,102,102
 track GSM3518679_Adult_Tead1_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab996f9b5429bf7a/display?to_ext=bigbed
 itemRgb on
-shortLabel Tead1 fb2 Peaks (Adult)
+shortLabel Tead1 fb2 PEAKS (Adult)
 longLabel GSM3518679_Adult_Tead1_fb2_peaks      
 type bigBed 3 . 
 configurable on
@@ -1107,7 +1107,7 @@ track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357169c8a02913a250/display?to_ext=bigbed
 itemRgb on
 shortLabel Gata4 Ventricle Peaks
-longLabel Gata4 Ventricle Peaks GSM6620026
+longLabel Gata4 Ventricle PEAKS GSM6620026
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1138,7 +1138,7 @@ track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d4edd480fe9c8839/display?to_ext=bigbed
 itemRgb on
 shortLabel Tbx5 Atria Peaks
-longLabel Tbx5 Atria Peaks GSM6620048 
+longLabel Tbx5 Atria PEAKS GSM6620048 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1169,7 +1169,7 @@ track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351403c27aeaad6e6f/display?to_ext=bigbed
 itemRgb on
 shortLabel Tbx5 Ventricle Peaks
-longLabel Tbx5 Ventricle Peaks GSM6620050 
+longLabel Tbx5 Ventricle PEAKS GSM6620050 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1201,7 +1201,7 @@ track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351420dfcc26f962b3/display?to_ext=bigbed
 itemRgb on
 shortLabel Mef2c Atria Peaks
-longLabel Mef2c Atria Peaks GSM6620032 
+longLabel Mef2c Atria PEAKS GSM6620032 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1232,7 +1232,7 @@ track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cc1ab3130ac8b367/display?to_ext=bigbed
 itemRgb on
 shortLabel Mef2c Ventricle Peaks
-longLabel Mef2c Ventricle Peaks GSM6620032 
+longLabel Mef2c Ventricle PEAKS GSM6620032 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1263,7 +1263,7 @@ track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351c50286cebb44f67/display?to_ext=bigbed
 itemRgb on
 shortLabel Mef2a Atria Peaks
-longLabel Mef2a Atria Peaks GSM6620028 
+longLabel Mef2a Atria PEAKS GSM6620028 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1294,7 +1294,7 @@ track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b98907a1e653d95d/display?to_ext=bigbed
 itemRgb on
 shortLabel Mef2a Ventricle Peaks
-longLabel Mef2a Ventricle Peaks GSM6620030  
+longLabel Mef2a Ventricle PEAKS GSM6620030  
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1325,7 +1325,7 @@ track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1e0b94bdbcd6676/display?to_ext=bigbed
 itemRgb on
 shortLabel Nkx2.5 Atria Peaks
-longLabel Nkx2.5 Atria Peaks GSM6620036
+longLabel Nkx2.5 Atria PEAKS GSM6620036
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1356,7 +1356,7 @@ track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac5cf16c317c9254/display?to_ext=bigbed
 itemRgb on
 shortLabel Nkx2.5 Ventricle Peaks
-longLabel Nkx2.5 Ventricle Peaks GSM6620038 
+longLabel Nkx2.5 Ventricle PEAKS GSM6620038 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1387,7 +1387,7 @@ track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a3a023a6b7a44a44/display?to_ext=bigbed
 itemRgb on
 shortLabel Tead1 Atria Peaks
-longLabel Tead1 Atria Peaks GSM6620052
+longLabel Tead1 Atria PEAKS GSM6620052
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1417,8 +1417,8 @@ track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
 track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352232db799d39cd00/display?to_ext=bigbed
 itemRgb on
-shortLabel Tead1 Ventricle Peaks 
-longLabel Tead1 Ventricle Peaks GSM6620054
+shortLabel Tead1 Ventricle PEAKS 
+longLabel Tead1 Ventricle PEAKS GSM6620054
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1449,7 +1449,7 @@ track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e61fd865cd538f52/display?to_ext=bigbed
 itemRgb on
 shortLabel Srf Atria Peaks
-longLabel Srf Atria Peaks GSM6620044
+longLabel Srf Atria PEAKS GSM6620044
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1480,7 +1480,7 @@ track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dea350bbfa563349/display?to_ext=bigbed
 itemRgb on
 shortLabel Srf Ventricle Peaks
-longLabel Srf Ventricle Peaks GSM6620046
+longLabel Srf Ventricle PEAKS GSM6620046
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1511,7 +1511,7 @@ track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f31ced1ca7a149/display?to_ext=bigbed
 itemRgb on
 shortLabel P300 Atria Peaks
-longLabel P300 Atria Peaks GSM6620040 
+longLabel P300 Atria PEAKS GSM6620040 
 type bigBed 3 .
 configurable on
 visibility dense
@@ -1542,7 +1542,7 @@ track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213529ea23593b948883/display?to_ext=bigbed
 itemRgb on
 shortLabel P300 Ventricle Peaks
-longLabel P300 Ventricle Peaks GSM6620042 
+longLabel P300 Ventricle PEAKS GSM6620042 
 type bigBed 3 .
 configurable on
 visibility dense
