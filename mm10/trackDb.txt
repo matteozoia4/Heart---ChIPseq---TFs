@@ -365,42 +365,8 @@ yLineOnOff off
 yLineMark 1
 gridDefault off
 color 230,102,102
-    
-    
-track Akerberg_GSM3518657_Foetal_Tbx5__fb1
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd4f23f81f85f883/display?to_ext=bigwig
-shortLabel Tbx5 fb1 PROFILE (Foetal)
-longLabel Akerberg_GSM3518657_Foetal_Tbx5__fb1
-type bigWig 0.816622 124.127
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11 
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 250,102,102
-    
 
-track Akerberg_GSM3518659_Foetal_Tbx5__fb2
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
-shortLabel Tbx5 fb2 PROFILE (Foetal)
-longLabel Akerberg_GSM3518659_Foetal_Tbx5__fb2
-type bigWig 0.816622 124.127
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 204,102,102
-        
- 
+
 track Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed7507e777f481c6/display?to_ext=bigbed
 itemRgb on
@@ -488,39 +454,7 @@ yLineMark 1
 gridDefault off
 color 230,102,102
 
-
-track Akerberg_GSM3518674_Adult_Tbx5__fb1
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
-shortLabel Tbx5 fb1 PROFILE (Adult)
-longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
-type bigWig 0.816622 124.127
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 250,102,102
-    
-
-track Akerberg_GSM3518675_Adult_Tbx5__fb2
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
-shortLabel Tbx5 fb2 PROFILE (Adult)
-longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
-type bigWig 0.816622 124.127
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 204,102,102        
+            
         
         
 track Akerberg_GSM3518674_Adult_Tbx5_fb1_regions
