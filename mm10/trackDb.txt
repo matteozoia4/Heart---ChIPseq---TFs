@@ -352,7 +352,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
 
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355fb6aa5e7bee6fd6/display?to_ext=bigwig
-shortLabel Tbx5 fb1 fb2 intersect (Foetal)
+shortLabel Tbx5 fb1 fb2 INTERSECT (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -386,7 +386,7 @@ color 250,102,102
 
 track Akerberg_GSM3518659_Foetal_Tbx5__fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
-shortLabel Tbx5 fb2 (Foetal)
+shortLabel Tbx5 fb2 PROFILE (Foetal)
 longLabel Akerberg_GSM3518659_Foetal_Tbx5__fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -404,7 +404,7 @@ color 204,102,102
 track Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed7507e777f481c6/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb1 (Foetal)
+shortLabel Tbx5 fb1 PEAKS (Foetal)
 longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions       
 type bigBed 3 .
 configurable on
@@ -415,7 +415,7 @@ color 250,102,102
 track Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350622c4218234b863/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb2 (Foetal)
+shortLabel Tbx5 fb2 PEAKS (Foetal)
 longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -426,7 +426,7 @@ color 204,102,102
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dc6471baca280cb2/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb1 fb2 intersect (Foetal)
+shortLabel Tbx5 fb1 fb2 PEAKS INTERSECT (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions       
 type bigBed 3 . 
 configurable on
@@ -457,7 +457,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         track Akerberg_GSM3518674_Adult_Tbx5_fb1
         parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
-        shortLabel Tbx5 fb1 (Adult)
+        shortLabel Tbx5 fb1 PROFILE (Adult)
         longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
         type bigWig
         color 250,102,102
@@ -466,7 +466,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         track Akerberg_GSM3518675_Adult_Tbx5_fb2
         parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
-        shortLabel Tbx5 fb2 (Adult)
+        shortLabel Tbx5 fb2 PROFILE (Adult)
         longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
         type bigWig
         color 204,102,102
@@ -474,7 +474,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
 
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213564b5549d65cd4e05/display?to_ext=bigwig
-shortLabel Tbx5 fb1 fb2 intersect (Adult)
+shortLabel Tbx5 fb1 fb2 PROFILES INTERSECT (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -491,7 +491,7 @@ color 230,102,102
 
 track Akerberg_GSM3518674_Adult_Tbx5__fb1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
-shortLabel Tbx5 fb1 (Adult)
+shortLabel Tbx5 fb1 PROFILE (Adult)
 longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
 type bigWig 0.816622 124.127
 configurable on
@@ -508,7 +508,7 @@ color 250,102,102
 
 track Akerberg_GSM3518675_Adult_Tbx5__fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
-shortLabel Tbx5 fb2 (Adult)
+shortLabel Tbx5 fb2 PROFILE (Adult)
 longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -526,7 +526,7 @@ color 204,102,102
 track Akerberg_GSM3518674_Adult_Tbx5_fb1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c043a6d510c8f18f/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb1 (Adult)
+shortLabel Tbx5 fb1 PEAKS (Adult)
 longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1_regions        
 type bigBed 3 . 
 configurable on
@@ -537,7 +537,7 @@ color 250,102,102
 track Akerberg_GSM3518675_Adult_Tbx5_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135183ab03b588d6d38/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb2 (Adult)
+shortLabel Tbx5 fb2 PEAKS (Adult)
 longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -548,7 +548,7 @@ color 204,102,102
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aa1e7dceaa2dec6d/display?to_ext=bigbed
 itemRgb on
-shortLabel Tbx5 fb1 fb2 intersect (Adult)
+shortLabel Tbx5 fb1 fb2 PEAKS INTERSECT (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -558,7 +558,7 @@ color 230,102,102
         
 track Gao_GSM3597759_E8_75_Isl1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f64914e6364a047f/display?to_ext=bigwig
-shortLabel Gao_Embrio
+shortLabel Isl1 PROFILE (E8.75)
 longLabel Gao_GSM3597759_E8_75_Isl1
 type bigWig 0.816622 10
 configurable on
@@ -576,7 +576,7 @@ color 102,102,255
 track Gao_GSM3597759_E8_75_Isl1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213583a6e0e5db42b348/display?to_ext=bigbed
 itemRgb on
-shortLabel Gao_Embrio
+shortLabel Isl1 PEAKS (E8.75)
 longLabel Gao_GSM3597759_E8_75_Isl1_regions       
 type bigBed 3 . 
 configurable on
@@ -586,7 +586,7 @@ color 102,102,255
 
 track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
     container multiWig
-    shortLabel Gao_CPC
+    shortLabel Isl1 CPC (Day 5)
     longLabel Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
     type bigWig 0 30000
     configurable on
@@ -624,7 +624,7 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
 
 track Gao_GSM3597784_Day5_CPC_Isl1_IP__rep1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4852d0d899299c1/display?to_ext=bigwig
-shortLabel Gao_CPC
+shortLabel Isl1 IP rep1 PROFILE (Day 5)
 longLabel Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
 type bigWig 0.816622 10
 configurable on
@@ -641,7 +641,7 @@ color 242,70,50
 
 track Gao_GSM3597785_Day5_CPC_Isl1_IP__rep2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d3b14a2c8dc6987f/display?to_ext=bigwig
-shortLabel Gao_CPC
+shortLabel Isl1 IP rep2 PROFILE (Day 5)
 longLabel Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
 type bigWig 0.816622 10
 configurable on
@@ -658,7 +658,7 @@ color 186,29,24
 
 track Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135742567b61ecb35cd/display?to_ext=bigwig
-shortLabel Gao_CPC
+shortLabel Isl1 IP rep1/rep2 PROFILE INTERSECT (Day 5)
 longLabel Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 type bigWig 0.816622 10
 configurable on
