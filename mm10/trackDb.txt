@@ -320,8 +320,8 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -358,8 +358,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 100:30:18
 yLineOnOff off
 yLineMark 1
@@ -375,8 +375,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11 
 yLineOnOff off
 yLineMark 1
@@ -392,8 +392,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -442,8 +442,8 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -480,8 +480,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -497,8 +497,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -514,8 +514,8 @@ type bigWig 0.816622 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -564,8 +564,8 @@ type bigWig 0.816622 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -592,8 +592,8 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -630,8 +630,8 @@ type bigWig 0.816622 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -647,8 +647,8 @@ type bigWig 0.816622 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -664,8 +664,8 @@ type bigWig 0.816622 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
-viewLimits 0.816622:10
-viewLimitsMax 0.816622:124.127
+viewLimits 0:10
+viewLimitsMax 0:124.127
 maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
@@ -739,8 +739,8 @@ track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -799,8 +799,8 @@ track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -858,8 +858,8 @@ track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -917,8 +917,8 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -979,8 +979,8 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
@@ -1042,8 +1042,8 @@ track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
     configurable on
     visibility full
     windowingFunction mean+whiskers
-    viewLimits 0.816622:10
-    viewLimitsMax 0.816622:124.127
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
     maxHeightPixels 128:30:11
     aggregate transparentOverlay
     showSubtrackColorOnUi on
