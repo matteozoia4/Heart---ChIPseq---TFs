@@ -1,0 +1,5 @@
+hub OSTERWALDER LAB - ChIP-seq 
+shortLabel ChIP-seq - TFs - Heart Tissue
+longLabel Hand2 (Laurent_2017) + Tbx5, Gata4, Tead1 (Akerberg_2019) + Isl1 (Liang_2015) + Gata4 (William.T.Pu_2014), G4-TIE2-TNT-KO (William.T.Pu 2021) + Isl1 (Gao) + P300, Mef2a, Mef2c, Gata4, Tead1, Tbx5, Srf,  "Atria and Ventricles" (Xiaoran Zhang 2023)
+genomesFile genomes.txt 
+email  matteo.zoia@dbmr.unibe.ch

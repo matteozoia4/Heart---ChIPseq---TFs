@@ -1,0 +1,1579 @@
+
+track Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511ab54fbc16fa980/display?to_ext=bigbed
+itemRgb on
+shortLabel Hand2 ChIPseq Heart rep1,2 PEAKS
+longLabel Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Hand2 ChIPseq Heart rep1,2 PROFILES OVERLAY
+    longLabel Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_PROFILE
+        parent Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359ebe74b08b8b07cd/display?to_ext=bigwig
+        shortLabel Hand2_ChIPseq_rep1
+        longLabel Hand2_ChIPseq_Heart_E10.5_Laurent_GSM1891954  
+        type bigWig
+        color 102,204,102
+
+        track Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891956_PROFILE
+        parent Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213595073a57adc61a67/display?to_ext=bigwig
+        shortLabel Hand2_ChIPseq_rep2
+        longLabel Hand2_ChIPseq_Heart_E10.5_Laurent_GSM1891956  
+        type bigWig
+        color 102,204,102
+
+track Tbx5_ChIPseq_Heart_Akerberg_2019_E12.5_GSM3518657_GSM3518659_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dda7d62fb36c23e1/display?to_ext=bigbed
+itemRgb on
+shortLabel Tbx5 ChIPseq Heart rep1,2 PEAKS
+longLabel Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659  
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Tbx5 ChIPseq Heart rep1,2 PROFILES OVERLAY
+    longLabel Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:15
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Tbx5_ChIPseq_Heart_E10.5_Akerberg_2019_GSM3518657_PROFILE
+        parent Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135faaf26103f861f56/display?to_ext=bigwig
+        shortLabel Tbx5_ChIPseq_rep1
+        longLabel Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657 
+        type bigWig
+        color 102,204,102
+
+        track Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518659_PROFILE
+        parent Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135488d4915dd4fe425/display?to_ext=bigwig
+        shortLabel Tbx5_ChIPseq_rep2
+        longLabel Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518659  
+        type bigWig
+        color 102,204,102
+
+track Gata4_ChIPseq_Heart_Pu_2014_E12.5_GSM1260026_GSM1260027_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f08af952e038bc7f/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 ChIPseq Heart rep1,2 PEAKS
+longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027  
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Gata4 ChIPseq Heart rep1,2 PROFILES OVERLAY
+    longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:5
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_PROFILE
+        parent Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213530b13803428b3204/display?to_ext=bigwig
+        shortLabel Gata4_ChIPseq_rep1
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026 
+        type bigWig
+        color 102,204,102
+
+        track Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260027_PROFILE
+        parent Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e696215c3eb71468/display?to_ext=bigwig
+        shortLabel Gata4_ChIPseq_rep2
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260027 
+        type bigWig
+        color 102,204,102
+
+
+
+track Tead1_ChIPseq_Heart_Akerberg_2019_E12.5_GSM3518661_GSM3518663_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135330ddd2b61ac0682/display?to_ext=bigbed
+itemRgb on
+shortLabel Tead1 ChIPseq Heart rep1,2 PEAKS
+longLabel Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663  
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Tead1 ChIPseq Heart rep1,2 PROFILES OVERLAY
+    longLabel Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:5
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Tead1_ChIPseq_Heart_E10.5_Akerberg_2019_GSM3518661_PROFILE
+        parent Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135682eafe9c55a458d/display?to_ext=bigwig
+        shortLabel Tead1_ChIPseq_rep1
+        longLabel Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661
+        type bigWig
+        color 102,204,102
+
+        track Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518663_PROFILE
+        parent Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135376ffbf99cd63c3a/display?to_ext=bigwig
+        shortLabel Tead1_ChIPseq_rep2
+        longLabel Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518663 
+        type bigWig
+        color 102,204,102
+
+track Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213536138b10172b2747/display?to_ext=bigbed
+itemRgb on
+shortLabel Isl1 ChIPseq Heart-SAN rep1 PEAKS
+longLabel Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148  
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d8fed205d9c7814b/display?to_ext=bigwig
+    shortLabel Isl1 ChIPseq Heart-SAN rep1 PROFILE
+    longLabel Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:10
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 102,204,102
+
+
+
+
+
+track GSE156001_William_T_Pu_2021_GSM4718809_GSM4718811_E12.5_G4_T2_rep1_3_ChIPseq_peaks_macs2_intersect_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350ec3c87aa68a5565/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 TIE2 ChIPseq Heart rep1,3 PEAKS
+longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001  
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track GSE156001_William_T_Pu_2021_GSM4718809_GSM4718811_E12.5_G4_T2_rep1_3_ChIPseq_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Gata4 TIE2 ChIPseq Heart rep1,3 PROFILES OVERLAY
+    longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Gata4_TIE2_ChIPseq_Heart_E12.5_Pu_2021_GSM4718809_PROFILE
+        parent GSE156001_William_T_Pu_2021_GSM4718809_GSM4718811_E12.5_G4_T2_rep1_3_ChIPseq_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350f4404c5a259d3bd/display?to_ext=bigwig
+        shortLabel Gata4 TIE2 ChIPseq rep1
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001  
+        type bigWig
+        color 102,204,102
+
+        track Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSM4718811_PROFILE
+        parent GSE156001_William_T_Pu_2021_GSM4718809_GSM4718811_E12.5_G4_T2_rep1_3_ChIPseq_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358a64e18068a2707a/display?to_ext=bigwig
+        shortLabel Gata4 TIE2 ChIPseq rep3
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001  
+        type bigWig
+        color 102,204,102
+
+
+
+
+
+
+
+track GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIPseq_peaks_macs2_intersect_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c17a247750e5dd6b/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 TNT ChIPseq Heart rep1,3 PEAKS
+longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001 
+type bigBed 3 .
+configurable on
+visibility dense
+color 102,204,102        
+  
+track GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIPseq_OVERLAYED_PROFILES
+    container multiWig
+    shortLabel Gata4 TNT ChIPseq Heart rep1,3 PROFILES OVERLAY
+    longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+        track Gata4_TNT_ChIPseq_Heart_E12.5_Pu_2021_GSM4718812_PROFILE
+        parent GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIPseq_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d27401e8c2e12d25/display?to_ext=bigwig
+        shortLabel Gata4 TNT ChIPseq rep1
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001 
+        type bigWig
+        color 102,204,102
+
+        track Gata4_TNT_ChIPseq_Heart_E12.5_Pu_2021_GSM4718814_PROFILE
+        parent GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIPseq_OVERLAYED_PROFILES
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ad8d13c88270492b/display?to_ext=bigwig
+        shortLabel Gata4 TNT ChIPseq rep3
+        longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001  
+        type bigWig
+        color 102,204,102
+
+
+track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
+    container multiWig
+    shortLabel Akerberg_Foetal
+    longLabel Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Akerberg_GSM3518657_Foetal_Tbx5_fb1
+        parent ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd4f23f81f85f883/display?to_ext=bigwig
+        shortLabel Akerberg_GSM3518657_Foetal
+        longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1
+        type bigWig
+        color 250,102,102
+          
+
+        track Akerberg_GSM3518659_Foetal_Tbx5_fb2
+        parent ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
+        shortLabel Akerberg_GSM3518659_Foetal
+        longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2
+        type bigWig
+        color 204,102,102
+
+
+track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355fb6aa5e7bee6fd6/display?to_ext=bigwig
+shortLabel Akerberg_Foetal
+longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 100:30:18
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 230,102,102
+    
+    
+track Akerberg_GSM3518657_Foetal_Tbx5__fb1
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd4f23f81f85f883/display?to_ext=bigwig
+shortLabel Akerberg_Foetal
+longLabel Akerberg_GSM3518657_Foetal_Tbx5__fb1
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11 
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 250,102,102
+    
+
+track Akerberg_GSM3518659_Foetal_Tbx5__fb2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
+shortLabel Akerberg_Foetal
+longLabel Akerberg_GSM3518659_Foetal_Tbx5__fb2
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,102,102
+        
+ 
+track Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed7507e777f481c6/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Foetal
+longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions       
+type bigBed 3 .
+configurable on
+visibility dense
+color 250,102,102        
+
+
+track Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350622c4218234b863/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Foetal
+longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 204,102,102
+        
+        
+track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dc6471baca280cb2/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Foetal
+longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 230,102,102  
+ 
+
+track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
+    container multiWig
+    shortLabel Akerberg_Adult
+    longLabel Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Akerberg_GSM3518674_Adult_Tbx5_fb1
+        parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
+        shortLabel Akerberg_Adult
+        longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
+        type bigWig
+        color 250,102,102
+          
+
+        track Akerberg_GSM3518675_Adult_Tbx5_fb2
+        parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
+        shortLabel Akerberg_Adult
+        longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
+        type bigWig
+        color 204,102,102
+        
+
+track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213564b5549d65cd4e05/display?to_ext=bigwig
+shortLabel Akerberg_Adult
+longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 230,102,102
+
+
+track Akerberg_GSM3518674_Adult_Tbx5__fb1
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
+shortLabel Akerberg_Adult
+longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 250,102,102
+    
+
+track Akerberg_GSM3518675_Adult_Tbx5__fb2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
+shortLabel Akerberg_Adult
+longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
+type bigWig 0.816622 124.127
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 204,102,102        
+        
+        
+track Akerberg_GSM3518674_Adult_Tbx5_fb1_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c043a6d510c8f18f/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Adult
+longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 250,102,102        
+
+
+track Akerberg_GSM3518675_Adult_Tbx5_fb2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135183ab03b588d6d38/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Adult
+longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 204,102,102
+        
+        
+track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aa1e7dceaa2dec6d/display?to_ext=bigbed
+itemRgb on
+shortLabel Akerberg_Adult
+longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 230,102,102
+         
+        
+track Gao_GSM3597759_E8_75_Isl1
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f64914e6364a047f/display?to_ext=bigwig
+shortLabel Gao_Embrio
+longLabel Gao_GSM3597759_E8_75_Isl1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 102,102,255         
+        
+        
+track Gao_GSM3597759_E8_75_Isl1_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213583a6e0e5db42b348/display?to_ext=bigbed
+itemRgb on
+shortLabel Gao_Embrio
+longLabel Gao_GSM3597759_E8_75_Isl1_regions       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 127,201,88        
+
+
+track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
+    container multiWig
+    shortLabel Gao_CPC
+    longLabel Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
+        parent ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4852d0d899299c1/display?to_ext=bigwig
+        shortLabel Gao_CPC
+        longLabel Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
+        type bigWig
+        color 242,70,50
+          
+
+        track Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
+        parent ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d3b14a2c8dc6987f/display?to_ext=bigwig
+        shortLabel Gao_CPC
+        longLabel Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
+        type bigWig
+        color 186,29,24
+
+
+track Gao_GSM3597784_Day5_CPC_Isl1_IP__rep1
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4852d0d899299c1/display?to_ext=bigwig
+shortLabel Gao_CPC
+longLabel Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 242,70,50
+
+
+track Gao_GSM3597785_Day5_CPC_Isl1_IP__rep2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d3b14a2c8dc6987f/display?to_ext=bigwig
+shortLabel Gao_CPC
+longLabel Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 186,29,24
+
+
+track Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135742567b61ecb35cd/display?to_ext=bigwig
+shortLabel Gao_CPC
+longLabel Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
+type bigWig 0.816622 10
+configurable on
+visibility full
+windowingFunction mean+whiskers
+viewLimits 0.816622:10
+viewLimitsMax 0.816622:124.127
+maxHeightPixels 128:30:11
+yLineOnOff off
+yLineMark 1
+gridDefault off
+color 216,52,53
+
+
+track Gao_GSM3597784_Day5_CPC_Isl1_rep1_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fb5c0686a59418cb/display?to_ext=bigbed
+itemRgb on
+shortLabel Gao_CPC
+longLabel Gao_GSM3597784_Day5_CPC_Isl1_rep1_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 242,70,50        
+
+
+track Gao_GSM3597785_Day5_CPC_Isl1_rep2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135670f8fffa4b758a1/display?to_ext=bigbed
+itemRgb on
+shortLabel Gao_CPC
+longLabel Gao_GSM3597785_Day5_CPC_Isl1_rep2_regions        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 186,29,24
+        
+        
+track Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213533f05826e5faa529/display?to_ext=bigbed
+itemRgb on
+shortLabel Gao_CPC
+longLabel Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 216,52,53
+
+
+
+
+
+
+
+track GSM1260008_Adult_Gata4_Ab1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135169eea4c37342479/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4_Adult_peaks_Ab1
+longLabel GSM1260008_Adult_Gata4_Ab1_peaks        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 250,102,102   
+
+track GSM1260009_Adult_Gata4_Ab2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5b5389c5553f4b6/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4_Adult_peaks_Ab2
+longLabel GSM1260009_Adult_Gata4_Ab2_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 204,102,102  
+
+track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
+    container multiWig
+    shortLabel Akerberg_Adult
+    longLabel Overlay_ChIPseq_Adult_Gata4_Ab1_Ab2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM1260008_Adult_Gata4_Ab1_profiles
+        parent ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213532fc340a228ff6d8/display?to_ext=bigwig
+        shortLabel GSM1260008_Adult_Gata4
+        longLabel GSM1260008_Adult_Gata4_Ab1_profiles
+        type bigWig
+        color 250,102,102
+          
+
+        track GSM1260009_Adult_Gata4_Ab2_profiles
+        parent ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359b5170df5453d3b4/display?to_ext=bigwig
+        shortLabel GSM1260009_Adult_Gata4
+        longLabel GSM1260009_Adult_Gata4_Ab2_profiles
+        type bigWig
+        color 204,102,102
+ 
+ 
+ 
+ 
+track GSM1260010_Adult_Gata4_fb1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511ff8fc63d7cc953/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4_Adult_peaks_fb1
+longLabel GSM1260010_Adult_Gata4_fb1_peaks        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 250,102,102   
+
+track GSM1260011_Adult_Gata4_fb2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354aff7d13a697a042/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4_Adult_peaks_fb2
+longLabel GSM1260011_Adult_Gata4_fb2_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 204,102,102  
+
+track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
+    container multiWig
+    shortLabel Akerberg_Adult
+    longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM1260010_Adult_Gata4_fb1_profiles
+        parent ChIPseq_Overlay_Adult_Gata4_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721353f0f4acbd7474c38/display?to_ext=bigwig
+        shortLabel GSM1260010_Adult_Gata4
+        longLabel GSM1260010_Adult_Gata4_fb1_profiles
+        type bigWig
+        color 250,102,102
+          
+
+        track GSM1260011_Adult_Gata4_fb2_profiles
+        parent ChIPseq_Overlay_Adult_Gata4_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135750c59ec338cd0a5/display?to_ext=bigwig
+        shortLabel GSM1260011_Adult_Gata4
+        longLabel GSM1260011_Adult_Gata4_fb2_profiles
+        type bigWig
+        color 204,102,102
+        
+        
+        
+track GSM1260024_E12.5_Gata4_Ab1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b9f3a256d8d34cce/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Gata4_Ab1
+longLabel GSM1260024_E12.5_Gata4_Ab1_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 242,70,50   
+
+track GSM1260025_E12.5_Gata4_Ab2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213505df99eaeba9b9af/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Gata4_Ab2
+longLabel GSM1260025_E12.5_Gata4_Ab2_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 186,29,24   
+
+track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
+    container multiWig
+    shortLabel Akerberg_E12.5
+    longLabel Overlay_ChIPseq_E12.5_Gata4_Ab1_Ab2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM1260024_E12.5_Gata4_Ab1_profiles
+        parent ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e10e80b59555b3ee/display?to_ext=bigwig
+        shortLabel GSM1260024_E12.5_Gata4
+        longLabel GSM1260024_E12.5_Gata4_Ab1_profiles
+        type bigWig
+        color 242,70,50 
+          
+
+        track GSM1260025_E12.5_Gata4_Ab2_profiles
+        parent ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135462f71eca844c7a7/display?to_ext=bigwig
+        shortLabel GSM1260025_E12.5_Gata4
+        longLabel GSM1260025_E12.5_Gata4_Ab2_profiles
+        type bigWig
+        color 186,29,24
+        
+        
+        
+track GSM1260026_E12.5_Gata4_fb1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213516d0fad449d8d575/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Gata4_fb1
+longLabel GSM1260026_E12.5_Gata4_fb1_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 242,70,50   
+
+track GSM1260027_E12.5_Gata4_fb2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213551eee1162f0677d5/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Gata4_fb2
+longLabel GSM1260027_E12.5_Gata4_fb2_peaks       
+type bigBed 3 . 
+configurable on
+visibility dense
+color 186,29,24   
+
+track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
+    container multiWig
+    shortLabel Akerberg_E12.5
+    longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM1260026_E12.5_Gata4_fb1_profiles
+        parent ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
+        bigDataUrl 
+        shortLabel GSM1260026_E12.5_Gata4
+        longLabel GSM1260026_E12.5_Gata4_fb1_profiles
+        type bigWig
+        color 242,70,50 
+          
+
+        track GSM1260027_E12.5_Gata4_fb2_profiles
+        parent ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358ae3ffbf0d543b3c/display?to_ext=bigwig
+        shortLabel GSM1260027_E12.5_Gata4
+        longLabel GSM1260027_E12.5_Gata4_fb2_profiles
+        type bigWig
+        color 186,29,24
+        
+        
+        
+        
+        
+        
+track GSM3518677_Adult_Tead1_fb1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d2ca6b5ba0b9a32f/display?to_ext=bigbed
+itemRgb on
+shortLabel Adult_Tead1_fb1
+longLabel GSM3518677_Adult_Tead1_fb1_peaks        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 250,102,102   
+
+track GSM3518679_Adult_Tead1_fb2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab996f9b5429bf7a/display?to_ext=bigbed
+itemRgb on
+shortLabel Adult_Tead1_fb2
+longLabel GSM3518679_Adult_Tead1_fb2_peaks      
+type bigBed 3 . 
+configurable on
+visibility dense
+color 204,102,102  
+
+track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
+    container multiWig
+    shortLabel Akerberg_Adult
+    longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM3518677_Adult_Tead1_fb1_profiles
+        parent ChIPseq_Overlay_Adult_Tead1_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1cd51c26f142c6e/display?to_ext=bigwig
+        shortLabel Adult_Tead1_fb1
+        longLabel GSM3518677_Adult_Tead1_fb1_profiles
+        type bigWig
+        color 250,102,102
+          
+
+        track GSM3518679_Adult_Tead1_fb2_profiles
+        parent ChIPseq_Overlay_Adult_Tead1_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135474696f076e674fd/display?to_ext=bigwig
+        shortLabel Adult_Tead1_fb2
+        longLabel GSM3518679_Adult_Tead1_fb2_profiles
+        type bigWig
+        color 204,102,102
+        
+        
+        
+        
+        
+        
+        
+track GSM3518661_E12.5_Tead1_fb1_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356ec16365a1fc458b/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Tead1_fb1
+longLabel GSM3518661_E12.5_Tead1_fb1_peaks        
+type bigBed 3 . 
+configurable on
+visibility dense
+color 242,70,50   
+
+track GSM3518663_E12.5_Tead1_fb2_peaks
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aa9aa3827ed0cbac/display?to_ext=bigbed
+itemRgb on
+shortLabel E12.5_Tead1_fb2
+longLabel GSM3518663_E12.5_Tead1_fb2_peaks      
+type bigBed 3 . 
+configurable on
+visibility dense
+color 186,29,24  
+
+track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
+    container multiWig
+    shortLabel Akerberg_E12.5
+    longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0.816622:10
+    viewLimitsMax 0.816622:124.127
+    maxHeightPixels 128:30:11
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    
+    
+        track GSM3518661_E12.5_Tead1_fb1_profiles
+        parent ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1cd51c26f142c6e/display?to_ext=bigwig
+        shortLabel E12.5_Tead1_fb1
+        longLabel GSM3518661_E12.5_Tead1_fb1_profiles
+        type bigWig
+        color 242,70,50
+          
+
+        track GSM3518663_E12.5_Tead1_fb2_profiles
+        parent ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135474696f076e674fd/display?to_ext=bigwig
+        shortLabel E12.5_Tead1_fb2
+        longLabel GSM3518663_E12.5_Tead1_fb2_profiles
+        type bigWig
+        color 186,29,24
+
+
+track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213581bc867f8bfbb2ed/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 Atria Peaks
+longLabel Gata4 Atria GSM6620024
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d0604b6caa3ac7e6/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Gata4 Atria Profile
+    longLabel Gata4 Atria Profile GSM6620024
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357169c8a02913a250/display?to_ext=bigbed
+itemRgb on
+shortLabel Gata4 Ventricle Peaks
+longLabel Gata4 Ventricle Peaks GSM6620026
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c58d3ffcfa02f1d5/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Gata4 Ventricle Profile
+    longLabel Gata4 Ventricle Profile GSM6620026
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d4edd480fe9c8839/display?to_ext=bigbed
+itemRgb on
+shortLabel Tbx5 Atria Peaks
+longLabel Tbx5 Atria Peaks GSM6620048 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356b8d4f17d7d5fd30/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tbx5 Atria Profile
+    longLabel Tbx5 Atria Profile GSM6620048 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351403c27aeaad6e6f/display?to_ext=bigbed
+itemRgb on
+shortLabel Tbx5 Ventricle Peaks
+longLabel Tbx5 Ventricle Peaks GSM6620050 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135450ef4d65b6cc51a/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tbx5 Ventricle Profile
+    longLabel Tbx5 Ventricle Profile GSM6620050
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+
+track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351420dfcc26f962b3/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2c Atria Peaks
+longLabel Mef2c Atria Peaks GSM6620032 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213522bef3c03edf916b/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2c Atria Profile
+    longLabel Mef2c Atria Profile GSM6620032
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cc1ab3130ac8b367/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2c Ventricle Peaks
+longLabel Mef2c Ventricle Peaks GSM6620032 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357c4b11f96c5b8272/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2c Ventricle Profile
+    longLabel Mef2c Ventricle Profile GSM6620032
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351c50286cebb44f67/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2a Atria Peaks
+longLabel Mef2a Atria Peaks GSM6620028 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355d0636684f1240b5/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2a Atria Profile
+    longLabel Mef2a Atria Profile GSM6620028
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b98907a1e653d95d/display?to_ext=bigbed
+itemRgb on
+shortLabel Mef2a Ventricle Peaks
+longLabel Mef2a Ventricle Peaks GSM6620030  
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135763ca098bf087ca4/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Mef2a Ventricle Profile
+    longLabel Mef2a Ventricle Profile GSM6620030 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1e0b94bdbcd6676/display?to_ext=bigbed
+itemRgb on
+shortLabel Nkx2.5 Atria Peaks
+longLabel Nkx2.5 Atria Peaks GSM6620036
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dd9848ab6c5a3f52/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Nkx2.5 Atria Profile
+    longLabel Nkx2.5 Atria Profile GSM6620036
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac5cf16c317c9254/display?to_ext=bigbed
+itemRgb on
+shortLabel Nkx2.5 Ventricle Peaks
+longLabel Nkx2.5 Ventricle Peaks GSM6620038 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d7a6a0a0ef45e36f/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Nkx2.5 Ventricle Profile
+    longLabel Nkx2.5 Ventricle Profile GSM6620038
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a3a023a6b7a44a44/display?to_ext=bigbed
+itemRgb on
+shortLabel Tead1 Atria Peaks
+longLabel Tead1 Atria Peaks GSM6620052
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e92890236c39c87e/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tead1 Atria Profile
+    longLabel Tead1 Atria Profile GSM6620052
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352232db799d39cd00/display?to_ext=bigbed
+itemRgb on
+shortLabel Tead1 Ventricle Peaks 
+longLabel Tead1 Ventricle Peaks GSM6620054
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357fe762552e2821c0/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Tead1 Ventricle Profile
+    longLabel Tead1 Ventricle Profile GSM6620054
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e61fd865cd538f52/display?to_ext=bigbed
+itemRgb on
+shortLabel Srf Atria Peaks
+longLabel Srf Atria Peaks GSM6620044
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358e8e9da26f904985/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Srf Atria Profile 
+    longLabel Srf Atria Profile GSM6620044
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dea350bbfa563349/display?to_ext=bigbed
+itemRgb on
+shortLabel Srf Ventricle Peaks
+longLabel Srf Ventricle Peaks GSM6620046
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f8840977be93dfa7/display?to_ext=bigwig
+    itemRgb on
+    shortLabel Srf Ventricle Profile
+    longLabel Srf Ventricle Profile GSM6620046
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f31ced1ca7a149/display?to_ext=bigbed
+itemRgb on
+shortLabel P300 Atria Peaks
+longLabel P300 Atria Peaks GSM6620040 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213576ef111b403772ce/display?to_ext=bigwig
+    itemRgb on
+    shortLabel P300 Atria Profile
+    longLabel P300 Atria Profile GSM6620040 
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PEAKS
+bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213529ea23593b948883/display?to_ext=bigbed
+itemRgb on
+shortLabel P300 Ventricle Peaks
+longLabel P300 Ventricle Peaks GSM6620042 
+type bigBed 3 .
+configurable on
+visibility dense
+color 3,192,60
+
+track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PROFILE
+    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359b409db5bbd98906/display?to_ext=bigwig
+    itemRgb on
+    shortLabel P300 Ventricle Profile
+    longLabel P300 Ventricle Profile GSM6620042
+    type bigWig 0 30000
+    configurable on
+    visibility full
+    windowingFunction mean+whiskers
+    viewLimits 0:20
+    viewLimitsMax 0:20
+    maxHeightPixels 100:30:18
+    aggregate transparentOverlay
+    showSubtrackColorOnUi on
+    autoScale off
+    smoothingWindow off
+    yLineOnOff off
+    yLineMark 1
+    gridDefault off
+    color 3,192,60
+
+
+
+
+
+
+
+
+
