@@ -184,7 +184,7 @@ track Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663_OVERLAYED_PR
 track Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213536138b10172b2747/display?to_ext=bigbed
 itemRgb on
-shortLabel Isl1 ChIPseq Heart-SAN rep1 PEAKS
+shortLabel Isl1 ChIPseq Heart-SAN rep1 PEAKS (P1-3)
 longLabel Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148  
 type bigBed 3 .
 configurable on
@@ -193,7 +193,7 @@ color 102,204,102
   
 track Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d8fed205d9c7814b/display?to_ext=bigwig
-    shortLabel Isl1 ChIPseq Heart-SAN rep1 PROFILE
+    shortLabel Isl1 ChIPseq Heart-SAN rep1 PROFILE (P1-3)
     longLabel Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148
     type bigWig 0 30000
     configurable on
