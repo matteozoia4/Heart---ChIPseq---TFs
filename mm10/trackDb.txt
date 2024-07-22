@@ -314,7 +314,7 @@ track GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIP
 
 track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
     container multiWig
-    shortLabel Akerberg_Foetal
+    shortLabel Tbx5 fb1 fb2 (Foetal)
     longLabel Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5 
     type bigWig 0 30000
     configurable on
@@ -352,7 +352,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
 
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355fb6aa5e7bee6fd6/display?to_ext=bigwig
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb1 fb2 intersect (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -369,7 +369,7 @@ color 230,102,102
     
 track Akerberg_GSM3518657_Foetal_Tbx5__fb1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd4f23f81f85f883/display?to_ext=bigwig
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb1 Foetal
 longLabel Akerberg_GSM3518657_Foetal_Tbx5__fb1
 type bigWig 0.816622 124.127
 configurable on
@@ -386,7 +386,7 @@ color 250,102,102
 
 track Akerberg_GSM3518659_Foetal_Tbx5__fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb2 Foetal
 longLabel Akerberg_GSM3518659_Foetal_Tbx5__fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -404,7 +404,7 @@ color 204,102,102
 track Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ed7507e777f481c6/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb1 (Foetal)
 longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions       
 type bigBed 3 .
 configurable on
@@ -415,7 +415,7 @@ color 250,102,102
 track Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721350622c4218234b863/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb2 (Foetal)
 longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -426,7 +426,7 @@ color 204,102,102
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dc6471baca280cb2/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Foetal
+shortLabel Tbx5 fb1 fb2 intersect (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions       
 type bigBed 3 . 
 configurable on
@@ -436,7 +436,7 @@ color 230,102,102
 
 track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
     container multiWig
-    shortLabel Akerberg_Adult
+    shortLabel Tbx5 fb1 fb2 Overlay (Adult)
     longLabel Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5 
     type bigWig 0 30000
     configurable on
@@ -457,7 +457,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         track Akerberg_GSM3518674_Adult_Tbx5_fb1
         parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
-        shortLabel Akerberg_Adult
+        shortLabel Tbx5 fb1 (Adult)
         longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
         type bigWig
         color 250,102,102
@@ -466,7 +466,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         track Akerberg_GSM3518675_Adult_Tbx5_fb2
         parent ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
-        shortLabel Akerberg_Adult
+        shortLabel Tbx5 fb2 (Adult)
         longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
         type bigWig
         color 204,102,102
@@ -474,7 +474,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
 
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213564b5549d65cd4e05/display?to_ext=bigwig
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb1 fb2 intersect (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -491,7 +491,7 @@ color 230,102,102
 
 track Akerberg_GSM3518674_Adult_Tbx5__fb1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d751a5a1bcb930b4/display?to_ext=bigwig
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb1 (Adult)
 longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
 type bigWig 0.816622 124.127
 configurable on
@@ -508,7 +508,7 @@ color 250,102,102
 
 track Akerberg_GSM3518675_Adult_Tbx5__fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213575efb31a54bcdce4/display?to_ext=bigwig
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb2 (Adult)
 longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
 type bigWig 0.816622 124.127
 configurable on
@@ -526,7 +526,7 @@ color 204,102,102
 track Akerberg_GSM3518674_Adult_Tbx5_fb1_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c043a6d510c8f18f/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb1 (Adult)
 longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1_regions        
 type bigBed 3 . 
 configurable on
@@ -537,7 +537,7 @@ color 250,102,102
 track Akerberg_GSM3518675_Adult_Tbx5_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135183ab03b588d6d38/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb2 (Adult)
 longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -548,7 +548,7 @@ color 204,102,102
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aa1e7dceaa2dec6d/display?to_ext=bigbed
 itemRgb on
-shortLabel Akerberg_Adult
+shortLabel Tbx5 fb1 fb2 intersect (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions        
 type bigBed 3 . 
 configurable on
@@ -733,7 +733,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     container multiWig
-    shortLabel Akerberg_Adult
+    shortLabel Gata4 Ab1 Ab2 Overlay (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
@@ -793,7 +793,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     container multiWig
-    shortLabel Akerberg_Adult
+    shortLabel Gata4 fb1 fb2 Overlay (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
@@ -954,7 +954,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
 track GSM3518677_Adult_Tead1_fb1_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d2ca6b5ba0b9a32f/display?to_ext=bigbed
 itemRgb on
-shortLabel Adult_Tead1_fb1
+shortLabel (Adult)_Tead1_fb1
 longLabel GSM3518677_Adult_Tead1_fb1_peaks        
 type bigBed 3 . 
 configurable on
@@ -964,7 +964,7 @@ color 250,102,102
 track GSM3518679_Adult_Tead1_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab996f9b5429bf7a/display?to_ext=bigbed
 itemRgb on
-shortLabel Adult_Tead1_fb2
+shortLabel (Adult)_Tead1_fb2
 longLabel GSM3518679_Adult_Tead1_fb2_peaks      
 type bigBed 3 . 
 configurable on
@@ -973,7 +973,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
     container multiWig
-    shortLabel Akerberg_Adult
+    shortLabel Tead1 fb1 fb2 (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
@@ -994,7 +994,7 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         track GSM3518677_Adult_Tead1_fb1_profiles
         parent ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1cd51c26f142c6e/display?to_ext=bigwig
-        shortLabel Adult_Tead1_fb1
+        shortLabel (Adult)_Tead1_fb1
         longLabel GSM3518677_Adult_Tead1_fb1_profiles
         type bigWig
         color 250,102,102
@@ -1003,7 +1003,7 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         track GSM3518679_Adult_Tead1_fb2_profiles
         parent ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135474696f076e674fd/display?to_ext=bigwig
-        shortLabel Adult_Tead1_fb2
+        shortLabel (Adult)_Tead1_fb2
         longLabel GSM3518679_Adult_Tead1_fb2_profiles
         type bigWig
         color 204,102,102
