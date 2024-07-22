@@ -698,7 +698,7 @@ color 186,29,24
 track Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213533f05826e5faa529/display?to_ext=bigbed
 itemRgb on
-shortLabel Gao_CPC
+shortLabel Isl1 rep1/rep2 CPC PEAKS INTERSECT (Day 5)
 longLabel Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions       
 type bigBed 3 . 
 configurable on
