@@ -556,43 +556,10 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
         color 186,29,24
 
 
-track Gao_GSM3597784_Day5_CPC_Isl1_IP__rep1
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e4852d0d899299c1/display?to_ext=bigwig
-shortLabel Isl1 rep1 IP PROFILE (Day 5)
-longLabel Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
-type bigWig 0.816622 10
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 242,70,50
-
-
-track Gao_GSM3597785_Day5_CPC_Isl1_IP__rep2
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d3b14a2c8dc6987f/display?to_ext=bigwig
-shortLabel Isl1 rep2 IP PROFILE (Day 5)
-longLabel Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
-type bigWig 0.816622 10
-configurable on
-visibility full
-windowingFunction mean+whiskers
-viewLimits 0:10
-viewLimitsMax 0:124.127
-maxHeightPixels 128:30:11
-yLineOnOff off
-yLineMark 1
-gridDefault off
-color 186,29,24
-
 
 track Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135742567b61ecb35cd/display?to_ext=bigwig
-shortLabel Isl1 rep1/rep2 IP PROFILES INTERSECT (Day 5)
+shortLabel Isl1 rep1/rep2 CPC PROFILES INTERSECT (Day 5)
 longLabel Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 type bigWig 0.816622 10
 configurable on
