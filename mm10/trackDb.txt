@@ -714,7 +714,7 @@ color 216,52,53
 track GSM1260008_Adult_Gata4_Ab1_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135169eea4c37342479/display?to_ext=bigbed
 itemRgb on
-shortLabel Gata4_Adult_peaks_Ab1
+shortLabel Gata4 Ab1 PEAKS (Adult)
 longLabel GSM1260008_Adult_Gata4_Ab1_peaks        
 type bigBed 3 . 
 configurable on
@@ -724,7 +724,7 @@ color 250,102,102
 track GSM1260009_Adult_Gata4_Ab2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5b5389c5553f4b6/display?to_ext=bigbed
 itemRgb on
-shortLabel Gata4_Adult_peaks_Ab2
+shortLabel Gata4 Ab2 PEAKS (Adult)
 longLabel GSM1260009_Adult_Gata4_Ab2_peaks       
 type bigBed 3 . 
 configurable on
@@ -774,7 +774,7 @@ track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
 track GSM1260010_Adult_Gata4_fb1_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511ff8fc63d7cc953/display?to_ext=bigbed
 itemRgb on
-shortLabel Gata4_Adult_peaks_fb1
+shortLabel Gata4 fb1 PEAKS (Adult)
 longLabel GSM1260010_Adult_Gata4_fb1_peaks        
 type bigBed 3 . 
 configurable on
@@ -784,7 +784,7 @@ color 250,102,102
 track GSM1260011_Adult_Gata4_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354aff7d13a697a042/display?to_ext=bigbed
 itemRgb on
-shortLabel Gata4_Adult_peaks_fb2
+shortLabel Gata4 fb2 PEAKS (Adult)
 longLabel GSM1260011_Adult_Gata4_fb2_peaks       
 type bigBed 3 . 
 configurable on
