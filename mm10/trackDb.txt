@@ -369,7 +369,7 @@ color 230,102,102
     
 track Akerberg_GSM3518657_Foetal_Tbx5__fb1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135fd4f23f81f85f883/display?to_ext=bigwig
-shortLabel Tbx5 fb1 Foetal
+shortLabel Tbx5 fb1 (Foetal)
 longLabel Akerberg_GSM3518657_Foetal_Tbx5__fb1
 type bigWig 0.816622 124.127
 configurable on
@@ -386,7 +386,7 @@ color 250,102,102
 
 track Akerberg_GSM3518659_Foetal_Tbx5__fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a1a2c0a176601166/display?to_ext=bigwig
-shortLabel Tbx5 fb2 Foetal
+shortLabel Tbx5 fb2 (Foetal)
 longLabel Akerberg_GSM3518659_Foetal_Tbx5__fb2
 type bigWig 0.816622 124.127
 configurable on
