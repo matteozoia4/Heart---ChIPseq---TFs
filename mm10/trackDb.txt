@@ -954,7 +954,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
 track GSM3518677_Adult_Tead1_fb1_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d2ca6b5ba0b9a32f/display?to_ext=bigbed
 itemRgb on
-shortLabel Adult_Tead1_fb1
+shortLabel Tead1 fb1 peaks (Adult)
 longLabel GSM3518677_Adult_Tead1_fb1_peaks        
 type bigBed 3 . 
 configurable on
@@ -964,7 +964,7 @@ color 250,102,102
 track GSM3518679_Adult_Tead1_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab996f9b5429bf7a/display?to_ext=bigbed
 itemRgb on
-shortLabel Adult_Tead1_fb2
+shortLabel Tead1 fb2 Peaks (Adult)
 longLabel GSM3518679_Adult_Tead1_fb2_peaks      
 type bigBed 3 . 
 configurable on
@@ -973,7 +973,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
     container multiWig
-    shortLabel Tead1 fb1 fb2 (Adult)
+    shortLabel Tead1 fb1 fb2 PROFILES (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
