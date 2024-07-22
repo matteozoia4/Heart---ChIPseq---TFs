@@ -504,7 +504,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 102,102,255         
+color 102,204,102         
         
         
 track Gao_GSM3597759_E8_75_Isl1_regions
@@ -515,7 +515,7 @@ longLabel Gao_GSM3597759_E8_75_Isl1_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 102,102,255        
+color 102,204,102        
 
 
 track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
