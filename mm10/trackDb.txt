@@ -436,7 +436,7 @@ color 230,102,102
 
 track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
     container multiWig
-    shortLabel Tbx5 fb1 fb2 Overlay (Adult)
+    shortLabel Tbx5 fb1 fb2OVERLAY (Adult)
     longLabel Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5 
     type bigWig 0 30000
     configurable on
@@ -733,7 +733,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     container multiWig
-    shortLabel Gata4 Ab1 Ab2 Overlay (Adult)
+    shortLabel Gata4 Ab1 Ab2OVERLAY (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
@@ -793,7 +793,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     container multiWig
-    shortLabel Gata4 fb1 fb2 Overlay (Adult)
+    shortLabel Gata4 fb1 fb2OVERLAY (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
