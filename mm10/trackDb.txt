@@ -581,7 +581,7 @@ longLabel Gao_GSM3597759_E8_75_Isl1_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 127,201,88        
+color 102,102,255        
 
 
 track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
