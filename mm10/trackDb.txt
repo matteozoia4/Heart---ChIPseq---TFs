@@ -436,7 +436,7 @@ color 230,102,102
 
 track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
     container multiWig
-    shortLabel Tbx5 fb1 fb2OVERLAY (Adult)
+    shortLabel Tbx5 fb1 fb2 PROFILE OVERLAY (Adult)
     longLabel Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5 
     type bigWig 0 30000
     configurable on
@@ -733,7 +733,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     container multiWig
-    shortLabel Gata4 Ab1 Ab2OVERLAY (Adult)
+    shortLabel Gata4 Ab1 Ab2 PROFILE OVERLAY (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
@@ -793,7 +793,7 @@ color 204,102,102
 
 track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     container multiWig
-    shortLabel Gata4 fb1 fb2OVERLAY (Adult)
+    shortLabel Gata4 fb1 fb2 PROFILE OVERLAY (Adult)
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
@@ -852,7 +852,7 @@ color 186,29,24
 
 track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
     container multiWig
-    shortLabel Gata4 Ab1 Ab2 PROFILE OVERLAY (E12.5)
+    shortLabel Gata4 Ab1 Ab2 PROFILE  PROFILE OVERLAY (E12.5)
     longLabel Overlay_ChIPseq_E12.5_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
@@ -911,7 +911,7 @@ color 186,29,24
 
 track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     container multiWig
-    shortLabel Gata4 fb1 fb2 PROFILE OVERLAY (E12.5)
+    shortLabel Gata4 fb1 fb2 PROFILE  PROFILE OVERLAY (E12.5)
     longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
@@ -1036,7 +1036,7 @@ color 186,29,24
 
 track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
     container multiWig
-    shortLabel Tead1 fb1 fb2 PROFILE OVERLAY (E12.5)
+    shortLabel Tead1 fb1 fb2 PROFILE  PROFILE OVERLAY (E12.5)
     longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
