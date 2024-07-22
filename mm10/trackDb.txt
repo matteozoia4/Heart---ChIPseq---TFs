@@ -354,7 +354,7 @@ track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355fb6aa5e7bee6fd6/display?to_ext=bigwig
 shortLabel Tbx5 fb1 fb2 PROFILES INTERSECT (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
-type bigWig 0.816622 124.127
+type bigWig 0 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
@@ -442,7 +442,7 @@ track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213564b5549d65cd4e05/display?to_ext=bigwig
 shortLabel Tbx5 fb1 fb2 PROFILES INTERSECT (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
-type bigWig 0.816622 124.127
+type bigWig 0 124.127
 configurable on
 visibility full
 windowingFunction mean+whiskers
@@ -494,7 +494,7 @@ track Gao_GSM3597759_E8_75_Isl1
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f64914e6364a047f/display?to_ext=bigwig
 shortLabel Isl1 PROFILE (E8.75)
 longLabel Gao_GSM3597759_E8_75_Isl1
-type bigWig 0.816622 10
+type bigWig 0 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
@@ -561,7 +561,7 @@ track Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135742567b61ecb35cd/display?to_ext=bigwig
 shortLabel Isl1 rep1/rep2 CPC PROFILES INTERSECT (Day 5)
 longLabel Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
-type bigWig 0.816622 10
+type bigWig 0 10
 configurable on
 visibility full
 windowingFunction mean+whiskers
