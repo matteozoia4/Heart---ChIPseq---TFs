@@ -911,7 +911,7 @@ color 186,29,24
 
 track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     container multiWig
-    shortLabel Gata4 fb1 fb2 PROFILE  OVERLAY (E12.5)
+    shortLabel Gata4 fb1 fb2 PROFILE OVERLAY (E12.5)
     longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
