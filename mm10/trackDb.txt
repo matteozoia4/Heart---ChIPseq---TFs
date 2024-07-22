@@ -338,7 +338,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
         shortLabel Akerberg_GSM3518657_Foetal
         longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1
         type bigWig
-        color 250,102,102
+        color 102,204,102
           
 
         track Akerberg_GSM3518659_Foetal_Tbx5_fb2
@@ -347,7 +347,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
         shortLabel Akerberg_GSM3518659_Foetal
         longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2
         type bigWig
-        color 204,102,102
+        color 102,204,102
 
 
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
@@ -364,7 +364,7 @@ maxHeightPixels 100:30:18
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 230,102,102
+color 102,204,102
 
 
 track Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
@@ -375,7 +375,7 @@ longLabel Akerberg_GSM3518657_Foetal_Tbx5_fb1_regions
 type bigBed 3 .
 configurable on
 visibility dense
-color 250,102,102        
+color 102,204,102        
 
 
 track Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions
@@ -386,7 +386,7 @@ longLabel Akerberg_GSM3518659_Foetal_Tbx5_fb2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 204,102,102
+color 102,204,102
         
         
 track Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions
@@ -397,7 +397,7 @@ longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 230,102,102  
+color 102,204,102  
  
 
 track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
@@ -426,7 +426,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         shortLabel Tbx5 fb1 PROFILE (Adult)
         longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1
         type bigWig
-        color 250,102,102
+        color 102,204,102
           
 
         track Akerberg_GSM3518675_Adult_Tbx5_fb2
@@ -435,7 +435,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
         shortLabel Tbx5 fb2 PROFILE (Adult)
         longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2
         type bigWig
-        color 204,102,102
+        color 102,204,102
         
 
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
@@ -452,7 +452,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 230,102,102
+color 102,204,102
 
             
         
@@ -465,7 +465,7 @@ longLabel Akerberg_GSM3518674_Adult_Tbx5_fb1_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 250,102,102        
+color 102,204,102        
 
 
 track Akerberg_GSM3518675_Adult_Tbx5_fb2_regions
@@ -476,7 +476,7 @@ longLabel Akerberg_GSM3518675_Adult_Tbx5_fb2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 204,102,102
+color 102,204,102
         
         
 track Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions
@@ -487,7 +487,7 @@ longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 230,102,102
+color 102,204,102
          
         
 track Gao_GSM3597759_E8_75_Isl1
@@ -544,7 +544,7 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
         shortLabel Gao_CPC
         longLabel Gao_GSM3597784_Day5_CPC_Isl1_IP_rep1
         type bigWig
-        color 242,70,50
+        color 102,204,102
           
 
         track Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
@@ -553,7 +553,7 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
         shortLabel Gao_CPC
         longLabel Gao_GSM3597785_Day5_CPC_Isl1_IP_rep2
         type bigWig
-        color 186,29,24
+        color 102,204,102
 
 
 
@@ -571,7 +571,7 @@ maxHeightPixels 128:30:11
 yLineOnOff off
 yLineMark 1
 gridDefault off
-color 216,52,53
+color 102,204,102
 
 
 track Gao_GSM3597784_Day5_CPC_Isl1_rep1_regions
@@ -582,7 +582,7 @@ longLabel Gao_GSM3597784_Day5_CPC_Isl1_rep1_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 242,70,50        
+color 102,204,102        
 
 
 track Gao_GSM3597785_Day5_CPC_Isl1_rep2_regions
@@ -593,7 +593,7 @@ longLabel Gao_GSM3597785_Day5_CPC_Isl1_rep2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 186,29,24
+color 102,204,102
         
         
 track Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions
@@ -604,7 +604,7 @@ longLabel Gao_intersect_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2_regions
 type bigBed 3 . 
 configurable on
 visibility dense
-color 216,52,53
+color 102,204,102
 
 
 
@@ -620,7 +620,7 @@ longLabel GSM1260008_Adult_Gata4_Ab1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 250,102,102   
+color 102,204,102   
 
 track GSM1260009_Adult_Gata4_Ab2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e5b5389c5553f4b6/display?to_ext=bigbed
@@ -630,7 +630,7 @@ longLabel GSM1260009_Adult_Gata4_Ab2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 204,102,102  
+color 102,204,102  
 
 track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     container multiWig
@@ -658,7 +658,7 @@ track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
         shortLabel GSM1260008_Adult_Gata4
         longLabel GSM1260008_Adult_Gata4_Ab1_profiles
         type bigWig
-        color 250,102,102
+        color 102,204,102
           
 
         track GSM1260009_Adult_Gata4_Ab2_profiles
@@ -667,7 +667,7 @@ track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
         shortLabel GSM1260009_Adult_Gata4
         longLabel GSM1260009_Adult_Gata4_Ab2_profiles
         type bigWig
-        color 204,102,102
+        color 102,204,102
  
  
  
@@ -680,7 +680,7 @@ longLabel GSM1260010_Adult_Gata4_fb1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 250,102,102   
+color 102,204,102   
 
 track GSM1260011_Adult_Gata4_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721354aff7d13a697a042/display?to_ext=bigbed
@@ -690,7 +690,7 @@ longLabel GSM1260011_Adult_Gata4_fb2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 204,102,102  
+color 102,204,102  
 
 track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     container multiWig
@@ -718,7 +718,7 @@ track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
         shortLabel GSM1260010_Adult_Gata4
         longLabel GSM1260010_Adult_Gata4_fb1_profiles
         type bigWig
-        color 250,102,102
+        color 102,204,102
           
 
         track GSM1260011_Adult_Gata4_fb2_profiles
@@ -727,7 +727,7 @@ track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
         shortLabel GSM1260011_Adult_Gata4
         longLabel GSM1260011_Adult_Gata4_fb2_profiles
         type bigWig
-        color 204,102,102
+        color 102,204,102
         
         
         
@@ -739,7 +739,7 @@ longLabel GSM1260024_E12.5_Gata4_Ab1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 242,70,50   
+color 102,204,102   
 
 track GSM1260025_E12.5_Gata4_Ab2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213505df99eaeba9b9af/display?to_ext=bigbed
@@ -749,7 +749,7 @@ longLabel GSM1260025_E12.5_Gata4_Ab2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 186,29,24   
+color 102,204,102   
 
 track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
     container multiWig
@@ -777,7 +777,7 @@ track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
         shortLabel GSM1260024_E12.5_Gata4
         longLabel GSM1260024_E12.5_Gata4_Ab1_profiles
         type bigWig
-        color 242,70,50 
+        color 102,204,102 
           
 
         track GSM1260025_E12.5_Gata4_Ab2_profiles
@@ -786,7 +786,7 @@ track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
         shortLabel GSM1260025_E12.5_Gata4
         longLabel GSM1260025_E12.5_Gata4_Ab2_profiles
         type bigWig
-        color 186,29,24
+        color 102,204,102
         
         
         
@@ -798,7 +798,7 @@ longLabel GSM1260026_E12.5_Gata4_fb1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 242,70,50   
+color 102,204,102   
 
 track GSM1260027_E12.5_Gata4_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213551eee1162f0677d5/display?to_ext=bigbed
@@ -808,7 +808,7 @@ longLabel GSM1260027_E12.5_Gata4_fb2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 186,29,24   
+color 102,204,102   
 
 track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     container multiWig
@@ -836,7 +836,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
         shortLabel GSM1260026_E12.5_Gata4
         longLabel GSM1260026_E12.5_Gata4_fb1_profiles
         type bigWig
-        color 242,70,50 
+        color 102,204,102 
           
 
         track GSM1260027_E12.5_Gata4_fb2_profiles
@@ -845,7 +845,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
         shortLabel GSM1260027_E12.5_Gata4
         longLabel GSM1260027_E12.5_Gata4_fb2_profiles
         type bigWig
-        color 186,29,24
+        color 102,204,102
         
         
         
@@ -860,7 +860,7 @@ longLabel GSM3518677_Adult_Tead1_fb1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 250,102,102   
+color 102,204,102   
 
 track GSM3518679_Adult_Tead1_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ab996f9b5429bf7a/display?to_ext=bigbed
@@ -870,7 +870,7 @@ longLabel GSM3518679_Adult_Tead1_fb2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 204,102,102  
+color 102,204,102  
 
 track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
     container multiWig
@@ -898,7 +898,7 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         shortLabel Adult_Tead1_fb1
         longLabel GSM3518677_Adult_Tead1_fb1_profiles
         type bigWig
-        color 250,102,102
+        color 102,204,102
           
 
         track GSM3518679_Adult_Tead1_fb2_profiles
@@ -907,7 +907,7 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
         shortLabel Adult_Tead1_fb2
         longLabel GSM3518679_Adult_Tead1_fb2_profiles
         type bigWig
-        color 204,102,102
+        color 102,204,102
         
         
         
@@ -923,7 +923,7 @@ longLabel GSM3518661_E12.5_Tead1_fb1_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 242,70,50   
+color 102,204,102   
 
 track GSM3518663_E12.5_Tead1_fb2_peaks
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135aa9aa3827ed0cbac/display?to_ext=bigbed
@@ -933,7 +933,7 @@ longLabel GSM3518663_E12.5_Tead1_fb2_peaks
 type bigBed 3 . 
 configurable on
 visibility dense
-color 186,29,24  
+color 102,204,102  
 
 track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
     container multiWig
@@ -961,7 +961,7 @@ track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
         shortLabel E12.5_Tead1_fb1
         longLabel GSM3518661_E12.5_Tead1_fb1_profiles
         type bigWig
-        color 242,70,50
+        color 102,204,102
           
 
         track GSM3518663_E12.5_Tead1_fb2_profiles
@@ -970,7 +970,7 @@ track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
         shortLabel E12.5_Tead1_fb2
         longLabel GSM3518663_E12.5_Tead1_fb2_profiles
         type bigWig
-        color 186,29,24
+        color 102,204,102
 
 
 track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PEAKS
@@ -981,7 +981,7 @@ longLabel Gata4 Atria GSM6620024
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d0604b6caa3ac7e6/display?to_ext=bigwig
@@ -1002,7 +1002,7 @@ track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357169c8a02913a250/display?to_ext=bigbed
@@ -1012,7 +1012,7 @@ longLabel Gata4 ventricle PEAKS GSM6620026
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c58d3ffcfa02f1d5/display?to_ext=bigwig
@@ -1033,7 +1033,7 @@ track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d4edd480fe9c8839/display?to_ext=bigbed
@@ -1043,7 +1043,7 @@ longLabel Tbx5 Atria PEAKS GSM6620048
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721356b8d4f17d7d5fd30/display?to_ext=bigwig
@@ -1064,7 +1064,7 @@ track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351403c27aeaad6e6f/display?to_ext=bigbed
@@ -1074,7 +1074,7 @@ longLabel Tbx5 ventricle PEAKS GSM6620050
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135450ef4d65b6cc51a/display?to_ext=bigwig
@@ -1095,7 +1095,7 @@ track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 
 track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PEAKS
@@ -1106,7 +1106,7 @@ longLabel Mef2c Atria PEAKS GSM6620032
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213522bef3c03edf916b/display?to_ext=bigwig
@@ -1127,7 +1127,7 @@ track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135cc1ab3130ac8b367/display?to_ext=bigbed
@@ -1137,7 +1137,7 @@ longLabel Mef2c ventricle PEAKS GSM6620032
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357c4b11f96c5b8272/display?to_ext=bigwig
@@ -1158,7 +1158,7 @@ track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721351c50286cebb44f67/display?to_ext=bigbed
@@ -1168,7 +1168,7 @@ longLabel Mef2a Atria PEAKS GSM6620028
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355d0636684f1240b5/display?to_ext=bigwig
@@ -1189,7 +1189,7 @@ track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135b98907a1e653d95d/display?to_ext=bigbed
@@ -1199,7 +1199,7 @@ longLabel Mef2a ventricle PEAKS GSM6620030
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135763ca098bf087ca4/display?to_ext=bigwig
@@ -1220,7 +1220,7 @@ track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135c1e0b94bdbcd6676/display?to_ext=bigbed
@@ -1230,7 +1230,7 @@ longLabel Nkx2.5 Atria PEAKS GSM6620036
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dd9848ab6c5a3f52/display?to_ext=bigwig
@@ -1251,7 +1251,7 @@ track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135ac5cf16c317c9254/display?to_ext=bigbed
@@ -1261,7 +1261,7 @@ longLabel Nkx2.5 ventricle PEAKS GSM6620038
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135d7a6a0a0ef45e36f/display?to_ext=bigwig
@@ -1282,7 +1282,7 @@ track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135a3a023a6b7a44a44/display?to_ext=bigbed
@@ -1292,7 +1292,7 @@ longLabel Tead1 Atria PEAKS GSM6620052
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e92890236c39c87e/display?to_ext=bigwig
@@ -1313,7 +1313,7 @@ track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721352232db799d39cd00/display?to_ext=bigbed
@@ -1323,7 +1323,7 @@ longLabel Tead1 ventricle PEAKS GSM6620054
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721357fe762552e2821c0/display?to_ext=bigwig
@@ -1344,7 +1344,7 @@ track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135e61fd865cd538f52/display?to_ext=bigbed
@@ -1354,7 +1354,7 @@ longLabel Srf Atria PEAKS GSM6620044
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721358e8e9da26f904985/display?to_ext=bigwig
@@ -1375,7 +1375,7 @@ track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135dea350bbfa563349/display?to_ext=bigbed
@@ -1385,7 +1385,7 @@ longLabel Srf ventricle PEAKS GSM6620046
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a472135f8840977be93dfa7/display?to_ext=bigwig
@@ -1406,7 +1406,7 @@ track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f31ced1ca7a149/display?to_ext=bigbed
@@ -1416,7 +1416,7 @@ longLabel P300 Atria PEAKS GSM6620040
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213576ef111b403772ce/display?to_ext=bigwig
@@ -1437,7 +1437,7 @@ track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PEAKS
 bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213529ea23593b948883/display?to_ext=bigbed
@@ -1447,7 +1447,7 @@ longLabel P300 ventricle PEAKS GSM6620042
 type bigBed 3 .
 configurable on
 visibility dense
-color 3,192,60
+color 102,204,102
 
 track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PROFILE
     bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359b409db5bbd98906/display?to_ext=bigwig
@@ -1468,7 +1468,7 @@ track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PROFILE
     yLineOnOff off
     yLineMark 1
     gridDefault off
-    color 3,192,60
+    color 102,204,102
 
 
 
