@@ -931,7 +931,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     
         track GSM1260026_E12.5_Gata4_fb1_profiles
         parent ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
-        bigDataUrl 
+        bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721355abd8e8ceca553e9/display?to_ext=bigwig
         shortLabel GSM1260026_E12.5_Gata4
         longLabel GSM1260026_E12.5_Gata4_fb1_profiles
         type bigWig
