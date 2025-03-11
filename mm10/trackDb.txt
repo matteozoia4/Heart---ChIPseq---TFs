@@ -1408,67 +1408,7 @@ track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
     gridDefault off
     color 102,204,102
 
-track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PEAKS
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213511f31ced1ca7a149/display?to_ext=bigbed
-itemRgb on
-shortLabel P300 Atria PEAKS
-longLabel P300 Atria PEAKS GSM6620040 
-type bigBed 3 .
-configurable on
-visibility dense
-color 102,204,102
 
-track GSE215065_Yuan_H_2023_GSM6620040_P300_A_SRR21838846_47_48_PROFILE
-    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213576ef111b403772ce/display?to_ext=bigwig
-    itemRgb on
-    shortLabel P300 Atria PROFILE
-    longLabel P300 Atria PROFILE GSM6620040 
-    type bigWig 0 30000
-    configurable on
-    visibility full
-    windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
-    maxHeightPixels 100:30:18
-    aggregate transparentOverlay
-    showSubtrackColorOnUi on
-    autoScale off
-    smoothingWindow off
-    yLineOnOff off
-    yLineMark 1
-    gridDefault off
-    color 102,204,102
-
-track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PEAKS
-bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a47213529ea23593b948883/display?to_ext=bigbed
-itemRgb on
-shortLabel P300 ventricle PEAKS
-longLabel P300 ventricle PEAKS GSM6620042 
-type bigBed 3 .
-configurable on
-visibility dense
-color 102,204,102
-
-track GSE215065_Yuan_H_2023_GSM6620042_P300_V_SRR21838842_43_44_45_PROFILE
-    bigDataUrl https://usegalaxy.org/api/datasets/f9cad7b01a4721359b409db5bbd98906/display?to_ext=bigwig
-    itemRgb on
-    shortLabel P300 Ventricle PROFILE
-    longLabel P300 Ventricle PROFILE GSM6620042
-    type bigWig 0 30000
-    configurable on
-    visibility full
-    windowingFunction mean+whiskers
-    viewLimits 0:20
-    viewLimitsMax 0:20
-    maxHeightPixels 100:30:18
-    aggregate transparentOverlay
-    showSubtrackColorOnUi on
-    autoScale off
-    smoothingWindow off
-    yLineOnOff off
-    yLineMark 1
-    gridDefault off
-    color 102,204,102
 
 
 
