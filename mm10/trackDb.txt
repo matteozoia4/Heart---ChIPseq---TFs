@@ -15,7 +15,7 @@ track Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956_OVERLAYED_PRO
     longLabel Hand2_ChIPseq_Heart_E10.5_Laurent_2017_GSM1891954_GSM1891956
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -60,7 +60,7 @@ track Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659_OVERLAYED_PRO
     longLabel Tbx5_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518657_GSM3518659
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:15
     viewLimitsMax 0:124.127
@@ -105,7 +105,7 @@ track Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027_OVERLAYED_PROFILES
     longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2014_GSM1260026_GSM1260027
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:124.127
@@ -152,7 +152,7 @@ track Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663_OVERLAYED_PR
     longLabel Tead1_ChIPseq_Heart_E12.5_Akerberg_2019_GSM3518661_GSM3518663
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:5
     viewLimitsMax 0:124.127
@@ -197,7 +197,7 @@ track Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148_PROFILE
     longLabel Isl1_ChIPseq_Heart_SAN_P1_P2_P3_Liang_2015_GSM1689148
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -231,7 +231,7 @@ track GSE156001_William_T_Pu_2021_GSM4718809_GSM4718811_E12.5_G4_T2_rep1_3_ChIPs
     longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:124.127
@@ -282,7 +282,7 @@ track GSE156001_William_T_Pu_2021_GSM4718812_GSM4718814_E12.5_G4_TNT_rep1_3_ChIP
     longLabel Gata4_ChIPseq_Heart_E12.5_Pu_2021_GSE156001 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:124.127
@@ -318,7 +318,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5
     longLabel Overlay_Akerberg_GSM3518657_GSM3518659_Foetal_Tbx5 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -356,7 +356,7 @@ shortLabel Tbx5 fb1 fb2 PROFILES INTERSECT (Foetal)
 longLabel Akerberg_intersect_GSM3518657_GSM3518659_Foetal_Tbx5_fb1_fb2
 type bigWig 0 124.127
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -406,7 +406,7 @@ track ChIPseq_Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5
     longLabel Overlay_Akerberg_GSM3518674_GSM3518675_Adult_Tbx5 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -444,7 +444,7 @@ shortLabel Tbx5 fb1 fb2 PROFILES INTERSECT (Adult)
 longLabel Akerberg_intersect_GSM3518674_GSM3518675_Adult_Tbx5_fb1_fb2
 type bigWig 0 124.127
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -496,7 +496,7 @@ shortLabel Isl1 PROFILE (E8.75)
 longLabel Gao_GSM3597759_E8_75_Isl1
 type bigWig 0 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -524,7 +524,7 @@ track ChIPseq_Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
     longLabel Overlay_Gao_GSM3597784_GSM3597785_Day5_CPC_Isl1_rep1_rep2
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -563,7 +563,7 @@ shortLabel Isl1 rep1/rep2 CPC PROFILES INTERSECT (Day 5)
 longLabel Gao_intersect_GSM3597784_GSM3597785_CPC_Isl1_IP_rep1_rep2
 type bigWig 0 10
 configurable on
-visibility full
+visibility dense
 windowingFunction mean+whiskers
 viewLimits 0:10
 viewLimitsMax 0:124.127
@@ -638,7 +638,7 @@ track ChIPseq_Overlay_Adult_Gata4_Ab1_Ab2
     longLabel Overlay_ChIPseq_Adult_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -698,7 +698,7 @@ track ChIPseq_Overlay_Adult_Gata4_fb1_fb2
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -757,7 +757,7 @@ track ChIPseq_Overlay_E12.5_Gata4_Ab1_Ab2
     longLabel Overlay_ChIPseq_E12.5_Gata4_Ab1_Ab2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -816,7 +816,7 @@ track ChIPseq_Overlay_E12.5_Gata4_fb1_fb2
     longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -878,7 +878,7 @@ track ChIPseq_Overlay_Adult_Tead1_fb1_fb2
     longLabel Overlay_ChIPseq_Adult_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -941,7 +941,7 @@ track ChIPseq_Overlay_E12.5_Tead1_fb1_fb2
     longLabel Overlay_ChIPseq_E12.5_Gata4_fb1_fb2 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:10
     viewLimitsMax 0:124.127
@@ -990,7 +990,7 @@ track GSE215065_Yuan_H_2023_GSM6620024_Gata4_A_SRR21838872_73_PROFILE
     longLabel Gata4 Atria PROFILE GSM6620024
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1021,7 +1021,7 @@ track GSE215065_Yuan_H_2023_GSM6620026_Gata4_V_SRR21838869_70_71_PROFILE
     longLabel Gata4 Ventricle PROFILE GSM6620026
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1052,7 +1052,7 @@ track GSE215065_Yuan_H_2023_GSM6620048_Tbx5_A_SRR21838834_35_36_PROFILE
     longLabel Tbx5 Atria PROFILE GSM6620048 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1083,7 +1083,7 @@ track GSE215065_Yuan_H_2023_GSM6620050_Tbx5_V_SRR21838831_32_33_PROFILE
     longLabel Tbx5 Ventricle PROFILE GSM6620050
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1115,7 +1115,7 @@ track GSE215065_Yuan_H_2023_GSM6620032_Mef2c_A_SRR21838859_60_61_62_PROFILE
     longLabel Mef2c Atria PROFILE GSM6620032
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1146,7 +1146,7 @@ track GSE215065_Yuan_H_2023_GSM6620034_Mef2c_V1_SRR21838856_57_58_PROFILE
     longLabel Mef2c Ventricle PROFILE GSM6620032
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1177,7 +1177,7 @@ track GSE215065_Yuan_H_2023_GSM6620028_Mef2a_A_SRR21838865_66_67_68_PROFILE
     longLabel Mef2a Atria PROFILE GSM6620028
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1208,7 +1208,7 @@ track GSE215065_Yuan_H_2023_GSM6620030_Mef2a_V_SRR21838863_64_PROFILE
     longLabel Mef2a Ventricle PROFILE GSM6620030 
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1239,7 +1239,7 @@ track GSE215065_Yuan_H_2023_GSM6620036_Nkx2.5_A_SRR21838853_54_55_PROFILE
     longLabel Nkx2.5 Atria PROFILE GSM6620036
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1270,7 +1270,7 @@ track GSE215065_Yuan_H_2023_GSM6620038_Nkx2.5_V_SRR21838849_50_51_52_PROFILE
     longLabel Nkx2.5 Ventricle PROFILE GSM6620038
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1301,7 +1301,7 @@ track GSE215065_Yuan_H_2023_GSM6620052_Tead1_A_SRR21838829_30_PROFILE
     longLabel Tead1 Atria PROFILE GSM6620052
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1332,7 +1332,7 @@ track GSE215065_Yuan_H_2023_GSM6620054_Tead1_V_SRR21838827_28_PROFILE
     longLabel Tead1 Ventricle PROFILE GSM6620054
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1363,7 +1363,7 @@ track GSE215065_Yuan_H_2023_GSM6620044_Srf_A_SRR21838839_40_41_PROFILE
     longLabel Srf Atria PROFILE GSM6620044
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
@@ -1394,7 +1394,7 @@ track GSE215065_Yuan_H_2023_GSM6620046_Srf_V_SRR21838837_38_PROFILE
     longLabel Srf Ventricle PROFILE GSM6620046
     type bigWig 0 30000
     configurable on
-    visibility full
+    visibility dense
     windowingFunction mean+whiskers
     viewLimits 0:20
     viewLimitsMax 0:20
